@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/home/danielboll/dev/personal/c-survival",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c23", "-Iinclude", "-DLOG_USE_COLOR", "-I", "/home/danielboll/.xmake/packages/r/raygui/4.0/9d606ceee8cb49559023212a8fb08d54/include", "-I", "/home/danielboll/.xmake/packages/r/raylib/5.0/aeed26e13a7a466f9d7c7ad6dd3b75c2/include", "-I", "/home/danielboll/.xmake/packages/f/flecs/v4.0.0/1cc9d6a21a0d426687c5fbb7f5b4ed05/include", "-I", "/home/danielboll/.xmake/packages/e/enet/v1.3.18/11bd41c1d4b44c1ba1905bbad3bbdd8c/include", "-DNDEBUG", "-o", "build/.objs/c-survival/linux/x86_64/release/include/third_party/log/log.c.o", "include/third_party/log/log.c"],
+  "file": "include/third_party/log/log.c"
+},
+{
+  "directory": "/home/danielboll/dev/personal/c-survival",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c23", "-Iinclude", "-DLOG_USE_COLOR", "-I", "/home/danielboll/.xmake/packages/r/raygui/4.0/9d606ceee8cb49559023212a8fb08d54/include", "-I", "/home/danielboll/.xmake/packages/r/raylib/5.0/aeed26e13a7a466f9d7c7ad6dd3b75c2/include", "-I", "/home/danielboll/.xmake/packages/f/flecs/v4.0.0/1cc9d6a21a0d426687c5fbb7f5b4ed05/include", "-I", "/home/danielboll/.xmake/packages/e/enet/v1.3.18/11bd41c1d4b44c1ba1905bbad3bbdd8c/include", "-DNDEBUG", "-o", "build/.objs/c-survival/linux/x86_64/release/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+},
+{
+  "directory": "/home/danielboll/dev/personal/c-survival",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c23", "-Iinclude", "-DLOG_USE_COLOR", "-I", "/home/danielboll/.xmake/packages/r/raygui/4.0/9d606ceee8cb49559023212a8fb08d54/include", "-I", "/home/danielboll/.xmake/packages/r/raylib/5.0/aeed26e13a7a466f9d7c7ad6dd3b75c2/include", "-I", "/home/danielboll/.xmake/packages/f/flecs/v4.0.0/1cc9d6a21a0d426687c5fbb7f5b4ed05/include", "-I", "/home/danielboll/.xmake/packages/e/enet/v1.3.18/11bd41c1d4b44c1ba1905bbad3bbdd8c/include", "-DNDEBUG", "-o", "build/.objs/c-survival/linux/x86_64/release/src/networking.c.o", "src/networking.c"],
+  "file": "src/networking.c"
+},
+{
+  "directory": "/home/danielboll/dev/personal/c-survival",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c23", "-Iinclude", "-DLOG_USE_COLOR", "-I", "/home/danielboll/.xmake/packages/r/raygui/4.0/9d606ceee8cb49559023212a8fb08d54/include", "-I", "/home/danielboll/.xmake/packages/r/raylib/5.0/aeed26e13a7a466f9d7c7ad6dd3b75c2/include", "-I", "/home/danielboll/.xmake/packages/f/flecs/v4.0.0/1cc9d6a21a0d426687c5fbb7f5b4ed05/include", "-I", "/home/danielboll/.xmake/packages/e/enet/v1.3.18/11bd41c1d4b44c1ba1905bbad3bbdd8c/include", "-DNDEBUG", "-o", "build/.objs/c-survival/linux/x86_64/release/src/systems/network.c.o", "src/systems/network.c"],
+  "file": "src/systems/network.c"
+},
+{
+  "directory": "/home/danielboll/dev/personal/c-survival",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c23", "-Iinclude", "-DLOG_USE_COLOR", "-I", "/home/danielboll/.xmake/packages/r/raygui/4.0/9d606ceee8cb49559023212a8fb08d54/include", "-I", "/home/danielboll/.xmake/packages/r/raylib/5.0/aeed26e13a7a466f9d7c7ad6dd3b75c2/include", "-I", "/home/danielboll/.xmake/packages/f/flecs/v4.0.0/1cc9d6a21a0d426687c5fbb7f5b4ed05/include", "-I", "/home/danielboll/.xmake/packages/e/enet/v1.3.18/11bd41c1d4b44c1ba1905bbad3bbdd8c/include", "-DNDEBUG", "-o", "build/.objs/c-survival/linux/x86_64/release/src/systems/render.c.o", "src/systems/render.c"],
+  "file": "src/systems/render.c"
+},
+{
+  "directory": "/home/danielboll/dev/personal/c-survival",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c23", "-Iinclude", "-DLOG_USE_COLOR", "-I", "/home/danielboll/.xmake/packages/r/raygui/4.0/9d606ceee8cb49559023212a8fb08d54/include", "-I", "/home/danielboll/.xmake/packages/r/raylib/5.0/aeed26e13a7a466f9d7c7ad6dd3b75c2/include", "-I", "/home/danielboll/.xmake/packages/f/flecs/v4.0.0/1cc9d6a21a0d426687c5fbb7f5b4ed05/include", "-I", "/home/danielboll/.xmake/packages/e/enet/v1.3.18/11bd41c1d4b44c1ba1905bbad3bbdd8c/include", "-DNDEBUG", "-o", "build/.objs/c-survival/linux/x86_64/release/src/systems/movement.c.o", "src/systems/movement.c"],
+  "file": "src/systems/movement.c"
+}]
