@@ -1,5 +1,4 @@
-#ifndef C_SURVIVORS_NETWORKING_H
-#define C_SURVIVORS_NETWORKING_H
+#pragma once
 
 #include <enet/enet.h>
 #include <stdbool.h>
@@ -31,5 +30,3 @@ void network_send(NetworkContext *context, const void *data, size_t data_size, P
 void network_broadcast(NetworkContext *context, const void *data, size_t data_size, PacketType type,
                        bool reliable);
 void network_handle_events(NetworkContext *context);
-
-#endif  // C_SURVIVORS_NETWORKING_H

@@ -1,4 +1,6 @@
-#include <c_survivors/components.h>
+#include <c_survivors/components/movement.h>
+#include <c_survivors/components/renderable.h>
+#include <c_survivors/systems/render.h>
 #include <flecs.h>
 #include <raylib.h>
 
